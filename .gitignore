@@ -1,2 +1,3 @@
 venv/
 __pucache__/
+.env
